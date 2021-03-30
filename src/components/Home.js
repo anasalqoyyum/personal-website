@@ -83,6 +83,7 @@ const Home = () => {
               <i class="fas fa-phone-alt fa-lg"></i>
             </a>
           </div>
+          <h1 className="mt-6 text-sm font-bold underline"><a href="https://darknowns.s-ul.eu/XkAjYbif">Download my Resume</a></h1>
         </div>
       </section>
     </>
