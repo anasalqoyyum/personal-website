@@ -80,7 +80,16 @@ const Home = () => {
               className="mx-2"
             >
               {" "}
-              <i class="fas fa-phone-alt fa-lg"></i>
+              <i class="fab fa-whatsapp fa-lg"></i>
+            </a>
+            <a
+              href="https://t.me/anasalqoyyum"
+              target="_blank"
+              rel="noreferrer"
+              className="mx-2"
+            >
+              {" "}
+              <i class="fab fa-telegram fa-lg"></i>
             </a>
           </div>
           <h1 className="mt-6 text-sm font-bold underline"><a href="https://darknowns.s-ul.eu/XkAjYbif">Download my Resume</a></h1>
